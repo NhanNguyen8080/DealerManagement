@@ -6,6 +6,9 @@
 * Coming soon...
 
 ### Screen-shots
+#### Menu
 ![Menu Source](https://github.com/NhanNguyen8080/dealer-management/blob/main/screenshots/Menu%20Screen%20when%20login%20successfully.png)
-![Menu Source](https://github.com/NhanNguyen8080/dealer-management/blob/main/screenshots/Features.png)
+
+#### There are some features in the program
+![Features Source](https://github.com/NhanNguyen8080/dealer-management/blob/main/screenshots/Features.png)
 #### Copyright &#169; 2023 nhannq
